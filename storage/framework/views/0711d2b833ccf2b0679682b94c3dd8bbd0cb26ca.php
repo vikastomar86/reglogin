@@ -1,0 +1,1 @@
+<h1> Welcome to Dashboard </h1><?php /**PATH D:\xampp\htdocs\mylaravel\resources\views/main.blade.php ENDPATH**/ ?>
